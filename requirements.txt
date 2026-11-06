@@ -1,0 +1,15 @@
+# FastF1 - Library for accessing Formula 1 data
+# IMPORTANT: Version < 3.9.0 is required to avoid F1TV authentication
+fastf1<3.9.0
+
+# Data manipulation
+pandas>=2.0.0
+
+# Data visualization
+matplotlib>=3.8.0
+
+# Numerical operations
+numpy>=1.26.0
+
+# Scientific computing
+scipy>=1.11.0
